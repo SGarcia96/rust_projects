@@ -2,7 +2,6 @@
 
 # Projects
 
-- **hello_world** -> first hello world program
 - **hello_cargo** -> first hello world program with cargo
 
 # How to run
