@@ -1,9 +1,5 @@
 # **RUST 🦀 BASICS**
 
-## Projects
-
-- **hello_cargo** -> first hello world program with cargo
-
 ## How to run
 
 - From the root directory run to compile .rs file:
@@ -13,6 +9,12 @@
 - After run to execute:
 
 `cargo run`
+
+## Help
+
+- To see documentation of local dependencies run:
+
+`cargo doc --open`
 
 ## Sources
 
