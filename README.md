@@ -1,10 +1,10 @@
-## **RUST 🦀 BASICS**
+# **RUST 🦀 BASICS**
 
-# Projects
+## Projects
 
 - **hello_cargo** -> first hello world program with cargo
 
-# How to run
+## How to run
 
 - From the root directory run to compile .rs file:
 
